@@ -36,5 +36,5 @@ WP Super Cache
 1)	Yoast SEO allows me to preview search result and edit the message I want Google to show accordingly. Readability also provides me comments about the content and how to improve it.
 2)	MonsterInsights shows various metrics about audience behaviors.
 3)	WP Super Cache makes the website loads faster.
-4)	Elemontor allows me to build a carousel image, so it fits many pictures without taking up much space in the page.
+4)	Elemontor allows me to build a carousel image, so it fits many pictures without taking up much space on the page. Example is in the middle of this page http://yeeiriser.azurewebsites.net/2020/05/27/the-mentalist/
 
