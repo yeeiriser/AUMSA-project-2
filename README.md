@@ -1,5 +1,5 @@
 # AUMSA-project-2
-This is a Wordpress project created as a part of AUMSA 2020 submission requirement
+This is a Wordpress project created as a part of AUMSA 2020 submission requirement for my personal blog http://yeeiriser.azurewebsites.net/
 
 Wordpress provides and hosts basic services and skeletons for creating a website. Users can modify the layout of the website by inserting code in php file.  However, for non-technical users, it is too intimidating and time-consuming to use this approach. Thus, Wordpress allows developers to create different kinds of both free and paid plugins which are beneficial to non-technical users in customizing the website and extending Wordpress functionalities beyond the basic without writing a code.
 The problems exhibit on my Wordpress website ranging from the most important to the least are as follows:
